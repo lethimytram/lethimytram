@@ -3,7 +3,12 @@
 🎓 Final-year student majoring in Management Information Systems  
 💻 Passionate about data analysis, software testing, and business systems  
 📍 Based in Vietnam
+---
 
+### 📫 Let's connect
+
+- Email: mytram.contact@gmail.com
+- LinkedIn: [Tram Le](https://linkedin.com/in/lethimytram)
 ---
 
 ### 🧩 Featured Projects
@@ -30,18 +35,3 @@
 
 - **[Quiz_Application](https://github.com/lethimytram/Quiz_Application)**  
   A simple quiz app built in C# for student practice and testing.
-
----
-
-### 🛠 Skills
-
-- **Languages & Tools**: Python, Java, C#, SQL, Jupyter, Selenium, ASP.NET Core  
-- **Concepts**: Data Analysis, Forecasting, ERP, Data Warehousing, Software Testing  
-- **Soft Skills**: Teamwork, Documentation, Time Management
-
----
-
-### 📫 Let's connect
-
-- Email: mytram.contact@gmail.com
-- LinkedIn: [Tram Le](https://linkedin.com/in/lethimytram)
