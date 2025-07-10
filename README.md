@@ -7,12 +7,11 @@
 ---
 
 ### 🧩 Featured Projects
+- **[DataWarehouse_DataMining_Project](https://github.com/lethimytram/DataWarehouse_DataMining_Project)**  
+  An integrated solution combining ETL, OLAP, dashboards, and data mining (classification, clustering, association) on healthcare & behavioral data.
 
 - **[VietnamGoldPrice_Forecasting_Analysis](https://github.com/lethimytram/VietnamGoldPrice_Forecasting_Analysis)**  
   Forecasting gold prices in Vietnam using ARIMA and Linear Regression models (2009–2025 time series).
-
-- **[DataWarehouse_DataMining_Project](https://github.com/lethimytram/DataWarehouse_DataMining_Project)**  
-  An integrated solution combining ETL, OLAP, dashboards, and data mining (classification, clustering, association) on healthcare & behavioral data.
 
 - **[ERP_HRM_Module](https://github.com/lethimytram/ERP_HRM_Module)**  
   Human Resource Management (HRM) module developed as part of an ERP system.
