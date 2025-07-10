@@ -18,8 +18,8 @@
 - **[VietnamGoldPrice_Forecasting_Analysis](https://github.com/lethimytram/VietnamGoldPrice_Forecasting_Analysis)**  
   Forecasting gold prices in Vietnam using ARIMA and Linear Regression models (2009–2025 time series).
 
-- **[ERP_HRM_Module](https://github.com/lethimytram/ERP_HRM_Module)**  
-  Human Resource Management (HRM) module developed as part of an ERP system.
+- **[Kimpack_Sales_Management_System](https://github.com/lethimytram/Kimpack_Sales_Management_System)**  
+  CRUD-based sales system developed for Kimpack's product management.
 
 - **[NgaThanh_Retail_Management_System](https://github.com/lethimytram/NgaThanh_Retail_Management_System)**  
   A retail system built with C#, ASP.NET Core, SQL Server — includes deployment via Docker.
@@ -27,8 +27,8 @@
 - **[Railway_WebApplication_Testing](https://github.com/lethimytram/Railway_WebApplication_Testing)**  
   Functional testing on a railway management system using Java and Selenium.
 
-- **[Kimpack_Sales_Management_System](https://github.com/lethimytram/Kimpack_Sales_Management_System)**  
-  CRUD-based sales system developed for Kimpack's product management.
+- **[ERP_HRM_Module](https://github.com/lethimytram/ERP_HRM_Module)**  
+  Human Resource Management (HRM) module developed as part of an ERP system.
 
 - **[MIS3047_QuanLyQuyTrinhKinhDoanh](https://github.com/lethimytram/MIS3047_QuanLyQuyTrinhKinhDoanh)**  
   Business process management practices applied to real-world cases.
