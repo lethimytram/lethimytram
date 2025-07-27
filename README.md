@@ -3,11 +3,6 @@
 - Final-year student majoring in Management Information Systems  
 - Passionate about data analysis, software testing, and business systems  
 
-
-### 📫 Let's connect
-
-- Email: mytram.contact@gmail.com
-- LinkedIn: [Tram Le](https://linkedin.com/in/lethimytram)
 ---
 
 ### 🧩 Featured Projects
