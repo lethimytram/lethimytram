@@ -1,8 +1,7 @@
 ## 👋 Hi, I'm Lê Thị Mỹ Trâm
 
-🎓 Final-year student majoring in Management Information Systems  
-💻 Passionate about data analysis, software testing, and business systems  
-📍 Based in Vietnam
+- Final-year student majoring in Management Information Systems  
+- Passionate about data analysis, software testing, and business systems  
 
 
 ### 📫 Let's connect
