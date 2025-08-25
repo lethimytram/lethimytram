@@ -1,11 +1,9 @@
-## 👋 Hi, I'm Lê Thị Mỹ Trâm
-
-- Final-year student majoring in Management Information Systems  
-- Passionate about data analysis, software testing, and business systems  
+## Hi, I'm Lê Thị Mỹ Trâm
+- Final year student majoring in Management Information Systems  
 
 ---
 
-### 🧩 Featured Projects
+### Projects:
 - **[DataWarehouse_DataMining_Project](https://github.com/lethimytram/DataWarehouse_DataMining_Project)**  
   An integrated solution combining ETL, OLAP, dashboards, and data mining (classification, clustering, association) on healthcare & behavioral data.
 
