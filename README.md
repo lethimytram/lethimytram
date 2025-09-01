@@ -1,6 +1,4 @@
-## Hi, I'm Lê Thị Mỹ Trâm
-- Final year student majoring in Management Information Systems  
-
+## Hi, I'm Tram
 ---
 
 ### Projects:
