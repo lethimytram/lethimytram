@@ -1,7 +1,7 @@
 ## Hi, I'm Tram
 ---
 
-### Projects:
+### Portfolio:
 - **[DataWarehouse_DataMining_Project](https://github.com/lethimytram/DataWarehouse_DataMining_Project)**  
   An integrated solution combining ETL, OLAP, dashboards, and data mining (classification, clustering, association) on healthcare & behavioral data.
 
